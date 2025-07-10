@@ -528,7 +528,7 @@ const countries: Country[] = [
         genre: "Novela",
         summary:
           "La vegetariana es una novela perturbadora y poética que explora la opresión femenina en la sociedad patriarcal coreana a través de la historia de Yeong-hye, una mujer que decide dejar de comer carne. Esta decisión aparentemente simple desencadena una serie de eventos violentos que revelan la brutalidad subyacente en las relaciones familiares y sociales. La novela está dividida en tres partes, cada una narrada desde una perspectiva diferente: el esposo abusivo, el cuñado obsesionado y la hermana. Han Kang utiliza un estilo onírico y simbólico para explorar temas como la autonomía corporal, la violencia doméstica, la enfermedad mental y la resistencia femenina. La transformación de Yeong-hye de mujer sumisa a ser que rechaza las normas sociales es tanto liberadora como trágica. La obra, que le valió a Han Kang el Premio Man Booker Internacional, es una crítica feroz del machismo y una meditación sobre los límites entre la cordura y la locura, la civilización y la naturaleza.",
-        image: "/placeholder.svg?height=400&width=600",
+        image: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/imagen-iUS3jiCbEmbv7wiAZIsoOldtiqBVsE.png",
         themes: ["Opresión femenina", "Patriarcado", "Autonomía corporal", "Violencia doméstica", "Resistencia"],
         extract:
           '"Soñaba con árboles. Árboles que se extendían desde su cuerpo, brotando de sus manos y pies." (Parte 1)',
