@@ -1035,6 +1035,34 @@ const countries: Country[] = [
       },
     },
   },
+  {
+    id: "mexico",
+    name: "México",
+    flag: "🇲🇽",
+    capital: "Ciudad de México",
+    population: "128.9 millones",
+    language: "Español",
+    currency: "Peso mexicano ($)",
+    founded: "1821",
+    writer: {
+      name: "Octavio Paz",
+      profession: "Poeta y ensayista",
+      quote: "La soledad es el fondo último de la condición humana.",
+      period: "1914-1998",
+      photo: "/octavio-paz-sketch.png",
+      masterwork: {
+        title: "El laberinto de la soledad",
+        year: "1950",
+        genre: "Ensayo",
+        summary:
+          "El laberinto de la soledad es una obra fundamental del pensamiento mexicano y latinoamericano que explora la identidad nacional mexicana a través de un análisis profundo de la psicología, la historia y la cultura del pueblo mexicano. Paz examina el carácter mexicano desde sus raíces prehispánicas hasta la modernidad, explorando temas como la soledad existencial, el machismo, la muerte, las fiestas populares y la relación conflictiva con el pasado indígena y la herencia colonial española. El autor analiza figuras arquetípicas como el 'pelado', la Malinche y el pachuco, mostrando cómo estos personajes reflejan aspectos profundos de la identidad mexicana. La obra combina antropología, psicología, historia y literatura para crear un retrato complejo de México como nación y de los mexicanos como pueblo. Paz sostiene que la soledad es una característica universal del ser humano, pero que en México adquiere formas particulares debido a la historia traumática de conquista, mestizaje y búsqueda de identidad. El ensayo se ha convertido en un texto clásico para entender no solo a México, sino también los procesos de formación de identidad nacional en América Latina.",
+        image: "/placeholder.svg?height=400&width=600",
+        themes: ["Identidad mexicana", "Soledad existencial", "Mestizaje", "Cultura popular", "Psicología nacional"],
+        extract:
+          '"El mexicano y la mexicanidad se definen como ruptura y negación. Y asimismo como búsqueda, como voluntad por trascender ese estado de exilio. En suma, como viva conciencia de la soledad, histórica y personal. La historia de México es la del hombre que busca su filiación, su origen." (Capítulo 1)',
+      },
+    },
+  },
 ]
 
 type ViewState = "flag" | "info" | "writer" | "masterwork"
