@@ -306,7 +306,8 @@ const countries: Country[] = [
         genre: "Poesía",
         summary:
           "Esta colección poética, escrita cuando Neruda tenía apenas 19 años, se convirtió en una de las obras más leídas de la poesía en español. Los poemas exploran el amor juvenil con una intensidad y sensualidad que revolucionó la poesía amorosa en lengua española. Neruda combina elementos del modernismo con un lenguaje más directo y emocional, creando versos que van desde la exaltación del amor hasta la melancolía de la pérdida. La obra refleja la influencia del paisaje chileno, especialmente del sur del país, donde Neruda pasó su juventud. Los poemas alternan entre la celebración del cuerpo femenino y la naturaleza, y la exploración de la soledad y el desamor. La 'canción desesperada' que cierra el libro es considerada una de las elegías amorosas más hermosas de la literatura hispanoamericana. La obra estableció a Neruda como una voz poética única y marcó el inicio de una carrera que lo llevaría al Premio Nobel de Literatura.",
-        image: "/placeholder.svg?height=400&width=600",
+        image:
+          "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%2010%20jul%202025%2C%2011_21_41-ic7huu7wNIgMJASgECM0lTqT0Euqmx.png",
         themes: ["Amor juvenil", "Naturaleza", "Sensualidad", "Melancolía", "Paisaje chileno"],
         extract:
           '"Cuerpo de mujer, blancas colinas, muslos blancos, te pareces al mundo en tu actitud de entrega. Mi cuerpo de labriego salvaje te socava y hace saltar el hijo del fondo de la tierra." (Poema 1)',
@@ -631,7 +632,8 @@ const countries: Country[] = [
       profession: "Periodista y escritora",
       quote: "Las bibliotecas son catedrales de la mente; hospitales del alma; parques temáticos de la imaginación.",
       period: "1975-presente",
-      photo: "/caitlin-moran-library-hero.png",
+      photo:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%2010%20jul%202025%2C%2012_16_12-M6PtmCs1VAhUgfXvOaG1JYcV5RGyXk.png",
       masterwork: {
         title: "Cómo ser mujer",
         year: "2011",
@@ -938,7 +940,8 @@ const countries: Country[] = [
       profession: "Novelista",
       quote: "La literatura debe iluminar los rincones más oscuros del alma humana.",
       period: "1912-1990",
-      photo: "/patrick-white-sketch.png",
+      photo:
+        "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/47d26b6c-ae7f-49c8-a3f3-75ae264d90f3-ikh52A4Zav6PpN3qaA2qEc5s51XKO3.png",
       masterwork: {
         title: "Voss",
         year: "1957",
